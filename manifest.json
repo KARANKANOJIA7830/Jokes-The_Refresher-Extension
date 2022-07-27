@@ -1,0 +1,14 @@
+ {
+    "name": "Jokes-The_Refresher",
+    "description":"The Best extension that make your mind refresh every time....",
+    "manifest_version": 3,
+    "version": "0.1.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons":{
+        "128": "logo.png"
+    },
+    "permissions":["tabs"]
+}
